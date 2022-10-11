@@ -1,5 +1,7 @@
 # aliengame
 
+Frontend Master learn
+
 ## Project setup
 ```
 npm install
